@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background-color: rgb(162, 86, 239);
+}
+
+h1{
+    color: white;
+}
+
+#mycarousel{
+    background-color: rgb(27, 224, 149);
+}
+
+#mycarousel img{
+    height: 400px;
+    margin-top: 10px;
+}
+
+.carousel-inner p{
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}
